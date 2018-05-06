@@ -1,0 +1,30 @@
+Hello? Is someone there? Please, identify yourself using this function I made called @f|speak@|(). I don't know if you're a programmer or not but you use it like this; type @f|speak@|(@q|"@s|YOUR_NAME@q|"@|). Just replace YOUR_NAME with your name. (Don't forget the quotes!)
+getName
+Is !NAME! your name?
+--
+*yes
+-"Ah I see well hello there !NAME!"
+
+*no
+-root
+--
+(audio1.wav)
+BG: #92140C
+What a clever one you are...
+Can't think of the password on your own so you open the developers console huh?
+You're hoping to get the password from me eh?
+... ... ...
+And what makes you think I even have it?
+... ... ...
+Well I do, of course
+But you must know I can't simply give it away
+That kind of sensitive information can only be shared amongst friends
+And I just now learned your name
+Besides, why do you even want to know the password?
+--
+*I dont know...
+-page2
+
+*I love a good mystery
+-page3
+--

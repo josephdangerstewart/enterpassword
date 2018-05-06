@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+
+#okiedokie-then {
+  background:#EAB17C;
+  transition: background 10s;
+}
+
+#give-up-yet {
+  transition: color 3s;
+}
+
+#please-help {
+  transition: background-color 5s;
+}
+
+.trapped {
+  color:#EAB17C;
+  font-family:monospace;
+}
+
+.trapped::selection {
+  color:red;
+}
+
+.the-essence-of-futility {
+  font-family:'Roboto Mono';
+  font-size:40pt;
+  text-align:center;
+}
+
+.nice-try-pal {
+  font-family:'Roboto Mono';
+  font-size:30pt;
+}
+
+.the-box {
+  text-align:center;
+}
